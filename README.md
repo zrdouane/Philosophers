@@ -79,6 +79,7 @@ will print its death.
 Feel free to clone this project, check the code or contact me if you want or find something wrong or missing in this documentation.
 
 * 42 Login:	*zrdouane*
-* Email:		*zrdouane@student.1337.ma*
-[![zrdouane's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2595000)](https://github.com/JaeSeoKim/badge42)
+* Email:		*zrdouane@student.1337.ma
+* 
+* [![zrdouane's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2595000)](https://github.com/JaeSeoKim/badge42)
 Good luck with your projects!
